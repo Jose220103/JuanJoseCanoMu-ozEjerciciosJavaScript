@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#estatura{
+    width: 100px;
+}
+
+#peso{
+    width: 100px;
+}
+
+#resultado{
+    width: 400px;
+   
+}
+
+.res{ 
+    margin-left: 100px;
+}
+
+.ejercicio1{
+    background-color: blueviolet;
+}
+
+.ejercicio2{
+  background-color: greenyellow;
+}
+
+.moneda{
+    width: 300px;
+}
