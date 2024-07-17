@@ -32,3 +32,15 @@
 .moneda{
     width: 300px;
 }
+
+.notaspintadas{
+    max-width: 18rem;
+}
+
+.search{
+    width: 400px;
+}
+
+.final{
+    gap: 10px;
+}
